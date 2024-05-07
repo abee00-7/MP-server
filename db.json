@@ -1,0 +1,60 @@
+{
+  "allVideos": [
+    {
+      "id": "b771",
+      "caption": "Senorita",
+      "imgURL": "https://i.pinimg.com/originals/62/35/da/6235daa8a2d5cb24a9d6b688a963a7a3.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/ow1QqW0jzTo"
+    },
+    {
+      "id": "da8b",
+      "caption": "Leo Trailer",
+      "imgURL": "https://timesofindia.indiatimes.com/photo/msid-104191357,imgsize-181198.cms",
+      "youtubeURL": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "dec8",
+      "caption": "JavaScript",
+      "imgURL": "https://infojrufba.github.io/guias/js/assets/img/js.png",
+      "youtubeURL": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    },
+    {
+      "id": "be55",
+      "caption": "CSS",
+      "imgURL": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png",
+      "youtubeURL": "https://www.youtube.com/embed/1PnVor36_40"
+    }
+  ],
+  "history": [],
+  "allCategory": [
+    {
+      "id": "45d7",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "2cda",
+          "caption": "Avesham Trailer",
+          "imgURL": "https://m.media-amazon.com/images/M/MV5BZjM5ODBkYTUtNjAwMy00MmY5LWEyZjEtMDg0Y2NlZjQyMzQ1XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw"
+        }
+      ]
+    },
+    {
+      "id": "56a0",
+      "categoryName": "Songs",
+      "allVideos": [
+        {
+          "id": "267a",
+          "caption": "Flowers",
+          "imgURL": "https://neonmusic.uk/wp-content/uploads/2023/04/miley-cyrus-.png.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/OCGpwIkkuXQ"
+        }
+      ]
+    },
+    {
+      "id": "d746",
+      "categoryName": "FrontEnd Tools",
+      "allVideos": []
+    }
+  ]
+}
